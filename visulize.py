@@ -1,5 +1,5 @@
+import matplotlib.pyplot as plt
 def visualize_results(actual_stock_price, predicted_stock_price):
-    import matplotlib.pyplot as plt
 
     plt.figure(figsize=(10,5))
     plt.plot(actual_stock_price, color='red', label='Actual Stock Price')
