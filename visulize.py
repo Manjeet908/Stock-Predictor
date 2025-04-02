@@ -8,4 +8,4 @@ def visualize_results(actual_stock_price, predicted_stock_price):
     plt.xlabel('Time')
     plt.ylabel('Stock Price')
     plt.legend()
-    plt.show()
+    plt.savefig("plot.jpg")
