@@ -1,0 +1,7 @@
+<script>start("c:\\Users\\Asus\\Desktop\\github\\StockPredictor\\backend\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("backend","backend",1,0,"0 B",1744610171,"4/14/25, 11:26:11 AM");</script>
+<script>addRow("predictor","predictor",1,0,"0 B",1744610629,"4/14/25, 11:33:49 AM");</script>
+<script>addRow("db.sqlite3","db.sqlite3",0,131072,"128 kB",1744610786,"4/14/25, 11:36:26 AM");</script>
+<script>addRow("manage.py","manage.py",0,685,"685 B",1744610086,"4/14/25, 11:24:46 AM");</script>
+<script>addRow("requirements.txt","requirements.txt",0,118,"118 B",1744642198,"4/14/25, 8:19:58 PM");</script>

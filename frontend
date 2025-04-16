@@ -1,0 +1,12 @@
+<script>start("c:\\Users\\Asus\\Desktop\\github\\StockPredictor\\frontend\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1744611730,"4/14/25, 11:52:10 AM");</script>
+<script>addRow("public","public",1,0,"0 B",1744610126,"4/14/25, 11:25:26 AM");</script>
+<script>addRow("src","src",1,0,"0 B",1744611714,"4/14/25, 11:51:54 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,253,"253 B",1742318511,"3/18/25, 10:51:51 PM");</script>
+<script>addRow("eslint.config.js","eslint.config.js",0,844,"844 B",1742318511,"3/18/25, 10:51:51 PM");</script>
+<script>addRow("index.html","index.html",0,361,"361 B",1742318511,"3/18/25, 10:51:51 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,119352,"117 kB",1744611730,"4/14/25, 11:52:10 AM");</script>
+<script>addRow("package.json","package.json",0,656,"656 B",1744611730,"4/14/25, 11:52:10 AM");</script>
+<script>addRow("README.md","README.md",0,809,"809 B",1742318511,"3/18/25, 10:51:51 PM");</script>
+<script>addRow("vite.config.js","vite.config.js",0,161,"161 B",1742318511,"3/18/25, 10:51:51 PM");</script>
